@@ -1,0 +1,14 @@
+
+db/
+greybox_tmp/
+incremental_db/
+output_files/
+simulation/modelsim/
+simulation/test_bench/work/
+
+*.bak
+*.qws
+
+*.mti
+*.mpf
+*.wlf
